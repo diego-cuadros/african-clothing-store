@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product-care",
+      "blocks": {
+        "product_meta": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": false,
+            "show_sku": true,
+            "show_product_rating": false,
+            "show_taxes_included": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_selector": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "block",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+            "show_label": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price_in_button": true,
+            "show_payment_button": true
+          }
+        },
+        "share_buttons": {
+          "type": "share_buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "product_meta",
+        "description",
+        "variant_selector",
+        "quantity_selector",
+        "buy_buttons",
+        "share_buttons"
+      ],
+      "settings": {
+        "image_size": "medium",
+        "stack_images": true,
+        "show_thumbnails": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": true
+      }
+    },
+    "judgeme_section_review_widget_a9ab": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Das Könnte dich auch interessieren!",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "judgeme_section_review_widget_a9ab",
+    "product-recommendations"
+  ]
+}

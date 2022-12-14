@@ -1,0 +1,56 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_collection_info": false,
+        "show_collection_image": false,
+        "apply_overlay": true,
+        "show_color_swatch": false,
+        "show_vendor": false,
+        "collection_image_size": "normal",
+        "show_sort_by": true,
+        "show_layout_switch": true,
+        "toolbar_position": "top",
+        "show_filters": true,
+        "show_filter_color_swatch": true,
+        "expand_filters": true,
+        "filter_position": "sidebar",
+        "filter_menu": "main-menu",
+        "grid_items_per_page": 28,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "d3c4517f-8e0e-43e3-8daf-fa617652ab82": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--15923880820897__d3c4517f-8e0e-43e3-8daf-fa617652ab82-1666857303b7e2e070-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "korperpflege",
+            "title": "",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "template--15923880820897__d3c4517f-8e0e-43e3-8daf-fa617652ab82-1666857303b7e2e070-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d3c4517f-8e0e-43e3-8daf-fa617652ab82"
+  ]
+}

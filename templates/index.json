@@ -1,0 +1,290 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "d5ea3f11-74a9-4d7a-aabe-650dfcdf02b5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dimensionen_einstellen_1800x800_px-3.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Dimensionen_einstellen_750x1100_px-2.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "5a586d9d-2031-4870-b97f-6816f0c3bf47": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1080x1080.gif",
+            "mobile_image": "shopify:\/\/shop_images\/Dimensionen_einstellen_750x1100_px.gif",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Neue Produkte jetzt erhältlich!",
+            "title": "Wachsdruckprodukte aus 100% Baumwolle!",
+            "button_1_text": "Jetzt shoppen!",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "992ab51c-0201-4ebe-8ce9-3687e732a562": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/63568297e405c97c0bc6d9c8.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/6356836fe405c97c0bd571f1.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Ohne chemische Zusatzstoffe!",
+            "title": "Hochwertige Körper - und Haarpflege",
+            "button_1_text": "100% Pur aus Togo",
+            "button_1_link": "shopify:\/\/collections\/korperpflege",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "slide-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2635.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/635689c9e405c97c0b338e88.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Bayietsoeur",
+            "title": "Neue Handgefertigte Afro wachsdruck Produkte",
+            "button_1_text": "Jetzt Shoppen",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "5f47422b-9b2d-479f-be67-6593385d3483": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5525.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/63568b25e405c97c0b43b267.jpg",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "Neue Accesoires",
+            "title": "Neue Necessaire-Taschen jetzt erhältlich!",
+            "button_1_text": "Ab 10.-",
+            "button_1_link": "shopify:\/\/collections\/accessoires",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "d5ea3f11-74a9-4d7a-aabe-650dfcdf02b5",
+        "5a586d9d-2031-4870-b97f-6816f0c3bf47",
+        "992ab51c-0201-4ebe-8ce9-3687e732a562",
+        "slide-0",
+        "5f47422b-9b2d-479f-be67-6593385d3483"
+      ],
+      "settings": {
+        "show_fullscreen": true,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 8,
+        "text_color": "#faf9f9",
+        "button_color": "#363636",
+        "button_background": "#34a96f"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "002199fe-5dd7-4bd2-b063-4b90e283902a": {
+          "type": "collection",
+          "settings": {
+            "collection": "korperpflege",
+            "image": "shopify:\/\/shop_images\/IMG_3620.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Körperpflege",
+            "button_text": "Produkte ansehen",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "women",
+            "image": "shopify:\/\/shop_images\/IMG_1082.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Damen",
+            "button_text": "Produkte ansehen",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "men",
+            "image": "shopify:\/\/shop_images\/IMG_8332.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Herren",
+            "button_text": "Produkte ansehen",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessoires",
+            "image": "shopify:\/\/shop_images\/IMG_5525.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "ACCESSOiRES",
+            "button_text": "Produkte ansehen",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "002199fe-5dd7-4bd2-b063-4b90e283902a",
+        "collection-1",
+        "collection-0",
+        "collection-2"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "women",
+            "title": "",
+            "grid_items_count": 11,
+            "button_text": "Alle Produkte Anzeigen"
+          }
+        },
+        "b81d6a72-7fad-4426-9127-3e9987b9f2c8": {
+          "type": "collection",
+          "settings": {
+            "collection": "men",
+            "title": "",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collection-0",
+        "b81d6a72-7fad-4426-9127-3e9987b9f2c8"
+      ],
+      "settings": {
+        "title": "Bestseller",
+        "layout_mode": "carousel",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "1660472889ffd23aef": {
+      "type": "text-with-image",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "image": "shopify:\/\/shop_images\/6356836fe405c97c0bd571f1.jpg",
+        "image_position": "right",
+        "content": "<p><\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "166042660197ef5108": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "16604266012b1d0d9e-0": {
+          "type": "testimonial",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/IMG_9036_752b8161-9993-4c49-b0a6-859a07a4ef02.png",
+            "quote": "<p>Das Kente Top kann ich fast mit allen Hosen kombinieren.<\/p><p>Daniela<\/p>"
+          }
+        },
+        "16604266012b1d0d9e-1": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Ich liebe das Rote Kleid es passt perfekt zu mir!<\/p><p>Celia<\/p>"
+          }
+        },
+        "16604266012b1d0d9e-2": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Der Wax Print Jogginganzug ist einfach nur genial, man kann ihn fast zu jeder Zeit anziehen und kombinieren. Einfach nur Top<\/p>"
+          }
+        },
+        "99b4b11c-679e-4ae8-9d1b-8946690a4e4f": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Les produits de Shea Moisture sont parfaits pour mes boucles:)<\/p><p>Melanie<\/p>"
+          }
+        },
+        "0efcfbcd-dcd1-4a2c-bbde-d9deb546665d": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Bayietsetsoeur hat genau nach meinen Wünschen das Kleid geschneidert und war sehr positiv überrascht, ein Großes Lob!<\/p><p>sabrina<\/p>"
+          }
+        },
+        "50b42a12-568c-40ae-bceb-0e252b99f4a7": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Share what your customers are saying about your products, your company...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16604266012b1d0d9e-0",
+        "16604266012b1d0d9e-1",
+        "16604266012b1d0d9e-2",
+        "99b4b11c-679e-4ae8-9d1b-8946690a4e4f",
+        "0efcfbcd-dcd1-4a2c-bbde-d9deb546665d",
+        "50b42a12-568c-40ae-bceb-0e252b99f4a7"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#eaeaea",
+        "text_color": "#1c1b1b"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection-list",
+    "featured-collections",
+    "1660472889ffd23aef",
+    "166042660197ef5108"
+  ]
+}
